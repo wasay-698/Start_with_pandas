@@ -6,4 +6,10 @@ pd.DataFrame({'Mr.A':["I like this one","This was awosome"],'Mr.B':["I didn't li
 index = ['Vase','Spoon'])
 
 
-print("Hello world")
+print(index)
+
+a = [1,2,3,4,5,6,7,8,9,10]
+b = [4,5,6,8,9]
+print(a+b)
+
+
