@@ -10,6 +10,10 @@ print(index)
 
 a = [1,2,3,4,5,6,7,8,9,10]
 b = [4,5,6,8,9]
+c = a+b
 print(a+b)
+print(c)
+
+
 
 
