@@ -4,7 +4,6 @@ pd.DataFrame({'Name':["This is wasay","ML student"],'skills' :["I am learning Da
 pd.DataFrame({'wasay':["present",'today'],'Sami':["Absent",'today']})
 pd.DataFrame({'Mr.A':["I like this one","This was awosome"],'Mr.B':["I didn't like this one", "This was ugly"]},
 index = ['Vase','Spoon'])
-
 print(index)
 print("I am back")
 print("Welcome back")
@@ -14,6 +13,8 @@ b = [4,5,6,8,9],
 c = a+b
 print(a+b)
 print(c)
+print("start your work")
+pd.DataFrame({'Yes': [50, 21], 'No': [131, 2]})
 
 
 
