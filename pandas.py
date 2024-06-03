@@ -7,6 +7,7 @@ pd.DataFrame({'Mr.A':["I like this one","This was awosome"],'Mr.B':["I didn't li
 index = ['Vase','Spoon'])
 print("I am back")
 #start with data science basics ,machine learning etc....
+
 print("start your work")
 pd.DataFrame({'Yes': [50, 21], 'No': [131, 2]})
 # print(Learn database and also learn sql)
