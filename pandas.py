@@ -7,7 +7,7 @@ print("I am back")
 #start with data science basics ,machine learning etc....
 
 print("start your work")
-pd.DataFrame({'Yes': [50, 21], 'No': [131, 2]})
+
 # print(Learn database and also learn sql)
 
 
