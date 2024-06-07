@@ -6,8 +6,6 @@ pd.DataFrame({'Name':["This is wasay","ML student"],'skills' :["I am learning Da
 print("I am back")
 
 #start with data science basics ,machine learning etc....
-
-
 print("start your work")
 
 
